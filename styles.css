@@ -176,14 +176,15 @@ body {
 
 .banner {
     background-image: linear-gradient(to top, var(--primary-color), transparent), url("./assets/banner.jpg");
-    background-position: center center;
+    background-position: center top;
     background-repeat: no-repeat;
     background-size: cover;
+    height: 500px;
 }
 
 .banner_content {
-    padding: 2rem 0;
-    max-width: 400px;
+    padding: 18rem 1rem 0 0;
+    max-width: 500px;
     margin-left: auto;
 }
 
@@ -194,7 +195,6 @@ body {
 }
 
 .banner_content p {
-    margin-bottom: 1rem;
     font-size: 1.2rem;
     line-height: 2rem;
     color: var(--white);
@@ -386,7 +386,6 @@ body {
 .media_card img {
     max-width: 400px;
     margin: auto;
-    height: 200px;
 }
 
 .media_details {

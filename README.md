@@ -16,4 +16,4 @@ Este projeto é uma landing page inspirada no jogo Diablo, desenvolvida para tre
 ## Instruções para Uso
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/usuario/repo-name.git
+   git clone https://github.com/karinaburguez/landing-page-jogo-diablo.git
