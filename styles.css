@@ -109,21 +109,6 @@ body {
     color: var(--white);
 }
 
-.header_container a {
-    margin-bottom: 5rem;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    gap: 1rem;
-    font-weight: 600;
-    text-align: center;
-    color: var(--white);
-}
-
-.header_container a img {
-    max-width: 40px;
-}
-
 .header_container .crew {
     text-align: center;
 }
